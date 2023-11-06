@@ -1,0 +1,125 @@
+OpLogicos	||, &&, not, !, and, or
+OpRelacionales	==, !=, <, >, <=, >=,
+OpAritmetico	=+, - , *, /
+OperacionIncremento.Decremento	=++, --, +=, -=
+Clase	Math
+Agrupar	groupBy
+Ordenar	orderBy
+Enumerar	enum
+Numeros	0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+CrearClase	class
+Pregunta	if, switch,
+ConsecuenciaIf	elif, else
+Alcance	public, private, protected, static
+BuscarPatron	Like
+ImprimirEnPantalla	WriteLine, cout, printf
+ParametroAbrir	(,[,{
+ParametroCerrar	),],}
+DefineTipoDato	typedef
+TipoDato	int, double, bool, float, string, char, byte, uint, ulong, ushort, sbyte,long, decimal, boolean
+DiferenciaFecha	datediff
+regresaNombreUsuario	user_name
+ParteFecha	datename
+Ano	year
+ConvertirValor	cast
+TiempoEnSistema	sysdatetime
+ImprimeCadena	puts
+LeeCadena	gets
+Opción	case
+SaltoCodigo	goto
+SaltoEnBucle	continue
+TipoEntero	dec, oct, hex
+SaltoIf	next
+CondicionVariable	assert
+Valor ASCII	ASCII
+Librerias	using
+Literales	Null, true, false, nil
+TamañoArreglo	len, space
+Regla	rule
+concatenar	concat
+Importar	from, import
+Contrario	default
+Colores	red, blue, white, green, gray, yellow
+Herencia	extends, super, :
+TipoOrden	desc, asc
+Mayusculas	upper
+Minusculas	lower
+MostrarConsola	print, println
+RetornoValor	get
+DefinirValor	set
+RecogerDatos	ReadKey, ReadLine, cin, scanf
+RecogerVariable	readonly, self, search
+AgregadoTipoDato	nonlocal
+Restricción	final, strictfp, transient
+PruebaError	Try, raise
+ManejoError	catch, except, sqlexception, cerr
+Obligatorio	finally
+ValorAbsoluto	abs
+RaizCuadrada	sqrt, square
+Excepción	Exception, throw, throws
+Ciclos	do, while, for, foreach, until
+DesdeSQL	from
+UniónTablas	inner, left, right, outer, full
+Condicion(sql)	having
+ValorMáximo(sql)	max
+ValorMínimo(sql)	min
+SumaCampos(sql)	sum
+PromedioCampos(sql)	avg
+Eliminar(sql)	drop, delete
+LimiteCampo	Limit
+ActualizarDatos	update
+MétodoSincronoAsincrono	await, async
+Tiempo	Hours, Minutes, Seconds, Milliseconds
+Arreglos	Array
+FormatoDeTiempo	HOUR_MINUTE, HOUR_SECOND, HOUR_MICROSECOND
+FormatoDeFecha	DAY_HOUR, DAY_MINUTE, DAY_SECON, DAY_MICROSECOND
+AgregarDatosTabla	insert
+EditarTabla	Alter
+TipoLlave	primary, foreign
+Llave	Key
+DatoCampo	into
+Vistas	view
+ExpresionFecha	isdate
+TiempoActual	LOCALTIME, GETDATE
+Consulta	select, join, union, unionAll
+MuestraTabla	Show
+ModificarArreglo	add, remove, sort
+MostrarArreglo	length, contains, in, notin
+Constructor	init , struct
+CambiaVariable	nameof
+Rutar	route
+RevisaInstancia	instanceof
+DefineModulo	module
+AliasModulo	as, alias
+Eliminar	del
+AgregarInterfaces	implements
+CompilaCadena	compile
+EvaluarCadena	eval
+Sincronizado	synchronized
+DetenerProceso	break, exit, leave, release
+MarcadorNulo	Pass
+RetornoGenerador	Yield
+LimpiarPantalla	clrscr, clear
+FuncionLambda	Lambda
+Secuencias de escape	\’, \”, \n, \t, \r, \v, \f, \b
+EliminarDerechos	REVOKE
+FuncionesTrigonométricas	sin, asin, cos, acos, tan, atan, sinh, asinh, cosh, tanh
+Exponencial	exp
+Logaritmos	log, log10
+RedondeoACero	fix
+Redondeo	round
+RedondeoMasPequeño	ceil
+SepararCarácter	,
+Comentario	\\, #
+InicioDeComentario	/*
+FinDeComentario	*/
+InicioFinalCadena	‘, “
+TamañoBytes	sizeof
+CrearTabla	create, table
+CarácterPunto	.
+MetodoReferencia	delegate
+RepetirIf	redo
+MetodoIndefinido	undef
+TerminarCodigo	;, end
+IdentificadorUnico(sql)	index
+DesignarClaveUnica(sql)	unique
